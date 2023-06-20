@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, Docker, C**
 
-- 👨‍💻 My website [zolisz.pl](zolisz.pl)
+- 👨‍💻 My website [zolisz.pl](https://www.zolisz.pl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
