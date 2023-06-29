@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">IT Automation Systems Student and Developer from Poland</h3>
 
-- 🌱 I’m currently learning **Django, Docker, C**
-
+- 🌱 I’m currently learning **Django, Docker, C (for embedded mainly)**
+- 🚀 I'm mastering **PHP** and **Laravel**.
 - 👨‍💻 My website [zolisz.pl](https://www.zolisz.pl)
 
 <h3 align="left">Connect with me:</h3>
