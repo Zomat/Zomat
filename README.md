@@ -2,7 +2,7 @@
 <h3 align="center">IT Automation Systems Student and Developer from Poland</h3>
 
 - 🌱 I’m currently learning **Clean Architecture, AI Algorithms**
-- 🚀 I'm mastering **PHP** and **Laravel**.
+- 🚀 I'm mastering **PHP**.
 - 👨‍💻 My website [zolisz.pl](https://www.zolisz.pl)
 
 <h3 align="left">Connect with me:</h3>
