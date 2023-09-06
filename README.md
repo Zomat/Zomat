@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">IT Automation Systems Student and Developer from Poland</h3>
 
-- 🌱 I’m currently learning **Clean Architecture, AI Algorithms**
-- 🚀 I'm mastering **PHP**.
+- 🌱 I’m currently learning **Clean Architecture, AI Algorithms, Embedded Systems**
+- 🚀 I'm mastering **PHP (it's not dead! 😁)**.
 - 👨‍💻 My website [zolisz.pl](https://www.zolisz.pl)
 
 <h3 align="left">Connect with me:</h3>
