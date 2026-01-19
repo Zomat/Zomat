@@ -49,6 +49,6 @@ Professionally, I build web applications. Scientifically, I am exploring the int
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=twoj_username&show_icons=true&theme=radical" alt="Zomat" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoj_username&layout=compact&theme=radical" alt="Zomat" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zomat&show_icons=true&theme=radical" alt="Zomat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zomat&layout=compact&theme=radical" alt="Zomat" />
 </p>
